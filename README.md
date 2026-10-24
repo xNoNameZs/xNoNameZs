@@ -1,16 +1,9 @@
 <div align="center">
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="Coding animation" />
-
-  <h1 align="center">Hi there, I'm Thanakorn Bunsin <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/hvRJCLFzcuMiCv8u9z.gif" width="35" alt="Waving hand" /></h1>
+  <h1 align="center">Hello, I'm xNoNameZ <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/hvRJCLFzcuMiCv8u9z.gif" width="35" alt="Waving hand" /></h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=CS+Student+%40+KMITL;CTF+Player+%26+Researcher;Ethical+Hacker;Binary+Exploitation+Lover" alt="CS Student, CTF Player, Ethical Hacker, Binary Exploitation Lover" />
   </a>
-
-  <p align="center">
-    <b>CS Student @ KMITL 🇹🇭 | Cybersecurity Enthusiast 🔐 | CTF Player 🚩</b>
-  </p>
 
   <p align="center">
     <a href="https://blog.kiwwy.dev" target="_blank" rel="noreferrer">
