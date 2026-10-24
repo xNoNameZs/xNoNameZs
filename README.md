@@ -1,6 +1,6 @@
-<div align="center">
-  <h1>Hello, I'm xNoNameZ 👋</h1>
-</div>
+
+<h1>Hello, I'm xNoNameZ 👋</h1>
+
 
 ### 🧑‍💻 Skill
 
