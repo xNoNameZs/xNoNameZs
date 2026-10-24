@@ -2,8 +2,6 @@
   <h1>Hello, I'm xNoNameZ 👋</h1>
 </div>
 
----
-
 ### 🚀 About Me
 
 - 🌍 **Location:** Thailand
