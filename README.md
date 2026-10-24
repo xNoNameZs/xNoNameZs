@@ -2,15 +2,16 @@
   <h1>Hello, I'm xNoNameZ 👋</h1>
 </div>
 
-### 🚀 About Me
+### 🧑‍💻 Skill
 
-- 🌍 **Location:** Thailand
-- 🎯 **Goal:** Improve my coding skills
+- I have been writing code for many year, I can coding in Lua Luau and Python.
 
-<div align="center">
+### 🚀 Project
 
-**Thanks for visiting!**
+- I don't have a specific project in mind yet, but I'll try to do it.
 
-📩 **Discord:** xnonamez :3
+### 📩 Contact
+
+- Discord: xnonamez
 
 </div>
