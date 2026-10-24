@@ -1,10 +1,6 @@
 <div align="center">
   <h1 align="center">Hello, I'm xNoNameZ <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/hvRJCLFzcuMiCv8u9z.gif" width="35" alt="Waving hand" /></h1>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=CS+Student+%40+KMITL;CTF+Player+%26+Researcher;Ethical+Hacker;Binary+Exploitation+Lover" alt="CS Student, CTF Player, Ethical Hacker, Binary Exploitation Lover" />
-  </a>
-
   <p align="center">
     <a href="https://blog.kiwwy.dev" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Website-blog.kiwwy.dev-2ea44f?style=for-the-badge&logo=ghost" alt="Website" />
